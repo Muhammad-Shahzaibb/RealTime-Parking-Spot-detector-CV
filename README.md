@@ -1,4 +1,4 @@
-**Parking Spot Detector Project**
+**ParkVision**
 
 The Parking Spot Detector is a Python-based tool designed to manage and visually mark parking spaces in an image of a parking lot. Using OpenCV, the program allows users to interactively define parking spots on an image and store this data for future use. It serves as a foundational component for advanced parking management systems, such as automated parking monitoring or spot availability detection.
 
